@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="3300" height="2200">
+ <!--glyph: "", point size: 100.0, template writer version: "101"-->
+ <style>.monochrome-0 {fill:#000000}
+
+.SFSymbolsPreview000000 {fill:#000000;opacity:1.0}
+</style>
+ <g id="Notes">
+  <rect height="2200" id="artboard" style="fill:white;opacity:1" width="3300" x="0" y="0"/>
+  <line style="fill:none;stroke:black;opacity:1;stroke-width:0.5;" x1="263" x2="3036" y1="292" y2="292"/>
+  <text style="stroke:none;fill:black;font-family:sans-serif;font-size:13;font-weight:bold;" transform="matrix(1 0 0 1 263 322)">Weight/Scale Variations</text>
+  <text style="stroke:none;fill:black;font-family:sans-serif;font-size:13;text-anchor:middle;" transform="matrix(1 0 0 1 559.711 322)">Ultralight</text>
+  <text style="stroke:none;fill:black;font-family:sans-serif;font-size:13;text-anchor:middle;" transform="matrix(1 0 0 1 856.422 322)">Thin</text>
+  <text style="stroke:none;fill:black;font-family:sans-serif;font-size:13;text-anchor:middle;" transform="matrix(1 0 0 1 1153.13 322)">Light</text>
+  <text style="stroke:none;fill:black;font-family:sans-serif;font-size:13;text-anchor:middle;" transform="matrix(1 0 0 1 1449.84 322)">Regular</text>
+  <text style="stroke:none;fill:black;font-family:sans-serif;font-size:13;text-anchor:middle;" transform="matrix(1 0 0 1 1746.56 322)">Medium</text>
+  <text style="stroke:none;fill:black;font-family:sans-serif;font-size:13;text-anchor:middle;" transform="matrix(1 0 0 1 2043.27 322)">Semibold</text>
+  <text style="stroke:none;fill:black;font-family:sans-serif;font-size:13;text-anchor:middle;" transform="matrix(1 0 0 1 2339.98 322)">Bold</text>
+  <text style="stroke:none;fill:black;font-family:sans-serif;font-size:13;text-anchor:middle;" transform="matrix(1 0 0 1 2636.69 322)">Heavy</text>
+  <text style="stroke:none;fill:black;font-family:sans-serif;font-size:13;text-anchor:middle;" transform="matrix(1 0 0 1 2933.4 322)">Black</text>
+  <line style="fill:none;stroke:black;opacity:1;stroke-width:0.5;" x1="263" x2="3036" y1="1903" y2="1903"/>
+  <text style="stroke:none;fill:black;font-family:sans-serif;font-size:13;font-weight:bold;" transform="matrix(1 0 0 1 263 1953)">Design Variations</text>
+  <text style="stroke:none;fill:black;font-family:sans-serif;font-size:13;" transform="matrix(1 0 0 1 263 1971)">Symbols are supported in up to nine weights and three scales.</text>
+  <text style="stroke:none;fill:black;font-family:sans-serif;font-size:13;" transform="matrix(1 0 0 1 263 1989)">For optimal layout with text and other symbols, vertically align</text>
+  <text style="stroke:none;fill:black;font-family:sans-serif;font-size:13;" transform="matrix(1 0 0 1 263 2007)">symbols with the adjacent text.</text>
+  <text style="stroke:none;fill:black;font-family:sans-serif;font-size:13;font-weight:bold;" transform="matrix(1 0 0 1 776 1953)">Margins</text>
+  <text style="stroke:none;fill:black;font-family:sans-serif;font-size:13;" transform="matrix(1 0 0 1 776 1971)">Leading and trailing margins on the left and right side of each symbol</text>
+  <text style="stroke:none;fill:black;font-family:sans-serif;font-size:13;" transform="matrix(1 0 0 1 776 1989)">can be adjusted by modifying the x-location of the margin guidelines.</text>
+  <text style="stroke:none;fill:black;font-family:sans-serif;font-size:13;" transform="matrix(1 0 0 1 776 2007)">Modifications are automatically applied proportionally to all</text>
+  <text style="stroke:none;fill:black;font-family:sans-serif;font-size:13;" transform="matrix(1 0 0 1 776 2025)">scales and weights.</text>
+  <text style="stroke:none;fill:black;font-family:sans-serif;font-size:13;font-weight:bold;" transform="matrix(1 0 0 1 1289 1953)">Exporting</text>
+  <text style="stroke:none;fill:black;font-family:sans-serif;font-size:13;" transform="matrix(1 0 0 1 1289 1971)">Symbols should be outlined when exporting to ensure the</text>
+  <text style="stroke:none;fill:black;font-family:sans-serif;font-size:13;" transform="matrix(1 0 0 1 1289 1989)">design is preserved when submitting to Xcode.</text>
+  <text id="template-version" style="stroke:none;fill:black;font-family:sans-serif;font-size:13;text-anchor:end;" transform="matrix(1 0 0 1 3036 1933)">Template v.4.0</text>
+  <text style="stroke:none;fill:black;font-family:sans-serif;font-size:13;text-anchor:end;" transform="matrix(1 0 0 1 3036 1951)">Requires Xcode 14 or greater</text>
+  <text id="descriptive-name" style="stroke:none;fill:black;font-family:sans-serif;font-size:13;text-anchor:end;" transform="matrix(1 0 0 1 3036 1969)">tilde-mark, IconOven UI icons</text>
+  <text style="stroke:none;fill:black;font-family:sans-serif;font-size:13;text-anchor:end;" transform="matrix(1 0 0 1 3036 1987)">Typeset at 100 points</text>
+  <text style="stroke:none;fill:black;font-family:sans-serif;font-size:13;" transform="matrix(1 0 0 1 263 726)">Small</text>
+  <text style="stroke:none;fill:black;font-family:sans-serif;font-size:13;" transform="matrix(1 0 0 1 263 1156)">Medium</text>
+  <text style="stroke:none;fill:black;font-family:sans-serif;font-size:13;" transform="matrix(1 0 0 1 263 1586)">Large</text>
+ </g>
+ <g id="Guides">
+  <g id="H-reference" style="fill:#27AAE1;stroke:none;" transform="matrix(1 0 0 1 339 696)">
+   <path d="M0.993654 0L3.63775 0L29.3281-67.1323L30.0303-67.1323L30.0303-70.459L28.1226-70.459ZM11.6885-24.4799L46.9815-24.4799L46.2315-26.7285L12.4385-26.7285ZM55.1196 0L57.7637 0L30.6382-70.459L29.4326-70.459L29.4326-67.1323Z"/>
+  </g>
+  <line id="Baseline-S" style="fill:none;stroke:#27AAE1;opacity:1;stroke-width:0.5;" x1="263" x2="3036" y1="696" y2="696"/>
+  <line id="Capline-S" style="fill:none;stroke:#27AAE1;opacity:1;stroke-width:0.5;" x1="263" x2="3036" y1="625.541" y2="625.541"/>
+  <g id="H-reference" style="fill:#27AAE1;stroke:none;" transform="matrix(1 0 0 1 339 1126)">
+   <path d="M0.993654 0L3.63775 0L29.3281-67.1323L30.0303-67.1323L30.0303-70.459L28.1226-70.459ZM11.6885-24.4799L46.9815-24.4799L46.2315-26.7285L12.4385-26.7285ZM55.1196 0L57.7637 0L30.6382-70.459L29.4326-70.459L29.4326-67.1323Z"/>
+  </g>
+  <line id="Baseline-M" style="fill:none;stroke:#27AAE1;opacity:1;stroke-width:0.5;" x1="263" x2="3036" y1="1126" y2="1126"/>
+  <line id="Capline-M" style="fill:none;stroke:#27AAE1;opacity:1;stroke-width:0.5;" x1="263" x2="3036" y1="1055.541" y2="1055.541"/>
+  <g id="H-reference" style="fill:#27AAE1;stroke:none;" transform="matrix(1 0 0 1 339 1556)">
+   <path d="M0.993654 0L3.63775 0L29.3281-67.1323L30.0303-67.1323L30.0303-70.459L28.1226-70.459ZM11.6885-24.4799L46.9815-24.4799L46.2315-26.7285L12.4385-26.7285ZM55.1196 0L57.7637 0L30.6382-70.459L29.4326-70.459L29.4326-67.1323Z"/>
+  </g>
+  <line id="Baseline-L" style="fill:none;stroke:#27AAE1;opacity:1;stroke-width:0.5;" x1="263" x2="3036" y1="1556" y2="1556"/>
+  <line id="Capline-L" style="fill:none;stroke:#27AAE1;opacity:1;stroke-width:0.5;" x1="263" x2="3036" y1="1485.541" y2="1485.541"/>
+  <line id="left-margin-Ultralight-S" style="fill:none;stroke:#00AEEF;stroke-width:0.5;opacity:1.0;" x1="515.711" x2="515.711" y1="600.785" y2="720.121"/>
+  <line id="right-margin-Ultralight-S" style="fill:none;stroke:#00AEEF;stroke-width:0.5;opacity:1.0;" x1="603.711" x2="603.711" y1="600.785" y2="720.121"/>
+  <line id="left-margin-Regular-S" style="fill:none;stroke:#00AEEF;stroke-width:0.5;opacity:1.0;" x1="1405.84" x2="1405.84" y1="600.785" y2="720.121"/>
+  <line id="right-margin-Regular-S" style="fill:none;stroke:#00AEEF;stroke-width:0.5;opacity:1.0;" x1="1493.84" x2="1493.84" y1="600.785" y2="720.121"/>
+  <line id="left-margin-Black-S" style="fill:none;stroke:#00AEEF;stroke-width:0.5;opacity:1.0;" x1="2889.4" x2="2889.4" y1="600.785" y2="720.121"/>
+  <line id="right-margin-Black-S" style="fill:none;stroke:#00AEEF;stroke-width:0.5;opacity:1.0;" x1="2977.4" x2="2977.4" y1="600.785" y2="720.121"/>
+ </g>
+ <g id="Symbols">
+  <g id="Black-S" transform="matrix(1 0 0 1 2889.4 696)">
+   <path class="monochrome-0 SFSymbolsPreview000000" d="M19.0924 -27.043C20.2921 -30.0423 21.4431 -31.8072 23.0356 -33.3087C24.5302 -34.7179 25.5852 -35.2454 27.436 -35.5819C29.3366 -35.9274 30.9747 -35.7909 33.431 -35.0685C35.9802 -34.3187 38.4602 -33.1247 41.4224 -31.2204C43.6368 -29.7968 46.586 -30.4379 48.0096 -32.6524C49.4332 -34.8668 48.7921 -37.816 46.5776 -39.2396C43.1232 -41.4603 39.4157 -43.2454 36.121 -44.2144C32.7336 -45.2107 28.8718 -45.5326 25.7306 -44.9614C22.5398 -44.3813 19.0114 -42.6171 16.4956 -40.2451C14.0777 -37.9653 11.7912 -34.4594 10.2409 -30.5836C9.2632 -28.1394 10.4521 -25.3653 12.8964 -24.3876C15.3406 -23.4099 18.1147 -24.5988 19.0924 -27.043ZM41.4224 -31.2204C44.8768 -28.9997 48.5843 -27.2146 51.879 -26.2456C55.2664 -25.2493 59.1282 -24.9274 62.2694 -25.4986C65.4602 -26.0787 68.9886 -27.8429 71.5044 -30.2149C73.9223 -32.4947 76.2088 -36.0006 77.7591 -39.8764C78.7368 -42.3206 77.5479 -45.0947 75.1036 -46.0724C72.6594 -47.0501 69.8853 -45.8612 68.9076 -43.417C67.7079 -40.4177 66.5569 -38.6528 64.9644 -37.1513C63.4698 -35.7421 62.4148 -35.2146 60.564 -34.8781C58.6634 -34.5326 57.0253 -34.6691 54.569 -35.3915C52.0198 -36.1413 49.5398 -37.3353 46.5776 -39.2396C44.3632 -40.6632 41.414 -40.0221 39.9904 -37.8076C38.5668 -35.5932 39.2079 -32.644 41.4224 -31.2204Z"/>
+  </g>
+  <g id="Regular-S" transform="matrix(1 0 0 1 1405.84 696)">
+   <path class="monochrome-0 SFSymbolsPreview000000" d="M17.22 -27.792C18.4938 -30.9767 19.8851 -33.1099 21.6522 -34.776C23.3628 -36.3889 24.941 -37.178 27.0753 -37.566C29.2383 -37.9593 31.3468 -37.7836 34.0001 -37.0032C36.7069 -36.2071 39.4466 -34.888 42.5129 -32.9168C43.7905 -32.0955 45.4919 -32.4653 46.3132 -33.7429C47.1345 -35.0205 46.7647 -36.7219 45.4871 -37.5432C42.1368 -39.697 38.6889 -41.3571 35.552 -42.2797C32.3615 -43.2181 28.9701 -43.5007 26.0914 -42.9773C23.184 -42.4487 20.1789 -40.9461 17.8791 -38.7777C15.6358 -36.6626 13.5895 -33.525 12.1134 -29.8347C11.5493 -28.4245 12.2352 -26.8241 13.6453 -26.26C15.0555 -25.696 16.6559 -26.3819 17.22 -27.792ZM42.5129 -32.9168C45.8632 -30.763 49.3111 -29.1029 52.448 -28.1803C55.6385 -27.2419 59.0299 -26.9593 61.9086 -27.4827C64.816 -28.0113 67.8211 -29.5139 70.1209 -31.6823C72.3642 -33.7974 74.4105 -36.935 75.8866 -40.6253C76.4507 -42.0355 75.7648 -43.6359 74.3547 -44.2C72.9445 -44.764 71.3441 -44.0781 70.78 -42.668C69.5062 -39.4833 68.1149 -37.3501 66.3478 -35.684C64.6372 -34.0711 63.059 -33.282 60.9247 -32.894C58.7617 -32.5007 56.6532 -32.6764 53.9999 -33.4568C51.2931 -34.2529 48.5534 -35.572 45.4871 -37.5432C44.2095 -38.3645 42.5081 -37.9947 41.6868 -36.7171C40.8655 -35.4395 41.2353 -33.7381 42.5129 -32.9168Z"/>
+  </g>
+  <g id="Ultralight-S" transform="matrix(1 0 0 1 515.711 696)">
+   <path class="monochrome-0 SFSymbolsPreview000000" d="M15.688 -28.4048C17.0225 -31.7412 18.6103 -34.1757 20.5202 -35.9765C22.4076 -37.7561 24.4139 -38.7592 26.7801 -39.1894C29.1578 -39.6217 31.6512 -39.4139 34.4657 -38.5862C37.3015 -37.7521 40.2536 -36.3307 43.4052 -34.3047C43.9162 -33.9762 44.5968 -34.1241 44.9253 -34.6352C45.2538 -35.1462 45.1059 -35.8268 44.5948 -36.1553C41.3297 -38.2543 38.0943 -39.8121 35.0864 -40.6968C32.0571 -41.5877 29.0505 -41.8383 26.3866 -41.3539C23.7111 -40.8675 21.134 -39.5789 19.011 -37.5772C16.9106 -35.5968 15.0608 -32.7605 13.6453 -29.2219C13.4197 -28.6578 13.6941 -28.0176 14.2581 -27.792C14.8222 -27.5664 15.4624 -27.8407 15.688 -28.4048ZM43.4052 -34.3047C46.6703 -32.2057 49.9057 -30.6479 52.9136 -29.7632C55.9429 -28.8723 58.9495 -28.6217 61.6134 -29.1061C64.2889 -29.5925 66.866 -30.8811 68.989 -32.8828C71.0894 -34.8632 72.9392 -37.6995 74.3547 -41.2381C74.5803 -41.8022 74.3059 -42.4424 73.7419 -42.668C73.1778 -42.8936 72.5376 -42.6193 72.312 -42.0552C70.9775 -38.7188 69.3897 -36.2843 67.4798 -34.4835C65.5924 -32.7039 63.5861 -31.7008 61.2199 -31.2706C58.8422 -30.8383 56.3488 -31.0461 53.5343 -31.8738C50.6985 -32.7079 47.7464 -34.1293 44.5948 -36.1553C44.0838 -36.4838 43.4032 -36.3359 43.0747 -35.8248C42.7462 -35.3138 42.8941 -34.6332 43.4052 -34.3047Z"/>
+  </g>
+ </g>
+</svg>
