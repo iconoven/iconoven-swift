@@ -2,6 +2,10 @@
 
 ## 1.0.1 (2026-10-09)
 
+- Licence text: scoped MIT, same as the other free IconOven packages. No icon changes.
+
+## 1.0.0 (2026-10-09)
+
 The new IconOven library. This is a major release because many icon names changed.
 
 ### Added
