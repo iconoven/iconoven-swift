@@ -1,0 +1,12 @@
+{
+  "info": {
+    "author": "xcode",
+    "version": 1
+  },
+  "symbols": [
+    {
+      "filename": "chatbot-face.svg",
+      "idiom": "universal"
+    }
+  ]
+}

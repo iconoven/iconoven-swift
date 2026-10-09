@@ -58,9 +58,9 @@ final class IconOvenTests: XCTestCase {
 
     private func loads(_ icon: IconOvenIcon) -> Bool {
         #if canImport(UIKit)
-        UIImage(named: icon.rawValue, in: .module, with: nil) != nil
+        UIImage(named: icon.assetName, in: .module, with: nil) != nil
         #else
-        Bundle.module.image(forResource: icon.rawValue) != nil
+        Bundle.module.image(forResource: icon.assetName) != nil
         #endif
     }
 }

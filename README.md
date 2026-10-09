@@ -1,8 +1,8 @@
 # IconOven for Swift
 
-2,658 free IconOven UI icons for SwiftUI, UIKit and AppKit. Every icon is a custom SF Symbol, so it sizes with your text, sits on the baseline, follows Dynamic Type and takes any weight from Ultralight to Black.
+Every IconOven UI icon in the Stroke style, free for SwiftUI, UIKit and AppKit. Each icon is a custom SF Symbol, so it sizes with your text, sits on the baseline, follows Dynamic Type and takes any weight from Ultralight to Black.
 
-Version 0.1.0. Browse the set at [iconoven.com/ui-icons](https://iconoven.com/ui-icons).
+Version 1.0.0. Browse the set at [iconoven.com/icons](https://iconoven.com/icons).
 
 ## Install
 
@@ -15,7 +15,7 @@ https://github.com/iconoven/iconoven-swift
 Or add it to `Package.swift`:
 
 ```swift
-.package(url: "https://github.com/iconoven/iconoven-swift", from: "0.1.0")
+.package(url: "https://github.com/iconoven/iconoven-swift", from: "1.0.0")
 ```
 
 and add `"IconOven"` to your target's dependencies.
@@ -53,13 +53,13 @@ Icons behave like SF Symbols:
 - `.font(.body.weight(.light))` through `.weight(.black)` changes the stroke weight. On iOS 16 and macOS 13 and later, `.fontWeight(_:)` works too.
 - `.imageScale(.small | .medium | .large)` adjusts the size relative to the text.
 
-## Pro
+## Other styles
 
-IconOven Pro adds thousands more icons and styles. Pro buyers download the `IconOvenPro` package from their order page. See [iconoven.com/ui-icons/pro](https://iconoven.com/ui-icons/pro).
+This package is every IconOven icon in the Stroke style, free. IconOven Pro adds the other 12 styles (solid, duotone, pop and others) for the web, React and design tools; there is no Pro package for Swift. See [iconoven.com/icons/pro](https://iconoven.com/icons/pro).
 
 ## Licence
 
-The free icons are MIT licensed. See [LICENSE](LICENSE).
+Every icon in this package is MIT licensed. See [LICENSE](LICENSE).
 
 ---
 

@@ -3,7 +3,7 @@ import SwiftUI
 public extension Image {
     /// An IconOven icon: `Image(iconoven: .bell)`. It sizes and weighs like an SF Symbol: set `.font(.body.weight(.semibold))` and `.imageScale`.
     init(iconoven icon: IconOvenIcon) {
-        self.init(icon.rawValue, bundle: .module)
+        self.init(icon.assetName, bundle: .module)
     }
 }
 
@@ -25,7 +25,7 @@ import UIKit
 public extension UIImage {
     /// An IconOven icon as a symbol image: `UIImage.iconoven(.bell)`.
     static func iconoven(_ icon: IconOvenIcon, with configuration: UIImage.SymbolConfiguration? = nil) -> UIImage {
-        guard let image = UIImage(named: icon.rawValue, in: .module, with: configuration) else {
+        guard let image = UIImage(named: icon.assetName, in: .module, with: configuration) else {
             preconditionFailure("IconOven: missing symbol \(icon.rawValue)")
         }
         return image
@@ -37,7 +37,7 @@ import AppKit
 public extension NSImage {
     /// An IconOven icon as a symbol image: `NSImage.iconoven(.bell)`.
     static func iconoven(_ icon: IconOvenIcon) -> NSImage {
-        guard let image = Bundle.module.image(forResource: icon.rawValue) else {
+        guard let image = Bundle.module.image(forResource: icon.assetName) else {
             preconditionFailure("IconOven: missing symbol \(icon.rawValue)")
         }
         return image
