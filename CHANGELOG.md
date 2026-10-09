@@ -1,6 +1,6 @@
 # Changelog
 
-## 1.0.0 (2026-10-09)
+## 1.0.1 (2026-10-09)
 
 The new IconOven library. This is a major release because many icon names changed.
 

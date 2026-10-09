@@ -2,7 +2,7 @@
 
 Every IconOven UI icon in the Stroke style, free for SwiftUI, UIKit and AppKit. Each icon is a custom SF Symbol, so it sizes with your text, sits on the baseline, follows Dynamic Type and takes any weight from Ultralight to Black.
 
-Version 1.0.0. Browse the set at [iconoven.com/icons](https://iconoven.com/icons).
+Version 1.0.1. Browse the set at [iconoven.com/icons](https://iconoven.com/icons).
 
 ## Install
 
@@ -15,7 +15,7 @@ https://github.com/iconoven/iconoven-swift
 Or add it to `Package.swift`:
 
 ```swift
-.package(url: "https://github.com/iconoven/iconoven-swift", from: "1.0.0")
+.package(url: "https://github.com/iconoven/iconoven-swift", from: "1.0.1")
 ```
 
 and add `"IconOven"` to your target's dependencies.

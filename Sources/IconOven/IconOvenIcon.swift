@@ -1,6 +1,6 @@
 // This file is generated. Do not edit.
 
-/// Every icon in the free IconOven set, version 1.0.0.
+/// Every icon in the free IconOven set, version 1.0.1.
 public enum IconOvenIcon: String, CaseIterable, Sendable {
     /// abacus: counting, math, beads, arithmetic
     case abacus = "abacus"
